@@ -11,8 +11,10 @@ body{
 .body-container
 { 
     max-width: 1000px;
+    height:1000px;
     background-color: bisque;
     margin: 0 auto;
+    padding: 20px;
 }
 #profile-image
 {
@@ -61,4 +63,30 @@ hr{
     width: 100%;
     margin: 20px auto;
     border-bottom: none;
+}
+
+/* personal section */
+
+.personal-section
+{
+
+}
+.personal-content
+{
+
+}
+.left-content
+{
+  width: 30%;
+  float: left;
+}
+
+.right-content
+{
+    width: 70%; float: left;
+}
+
+.common-hr
+{
+    
 }
