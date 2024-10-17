@@ -88,5 +88,7 @@ hr{
 
 .common-hr
 {
-    
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 20px auto;
 }
