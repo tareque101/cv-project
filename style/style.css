@@ -11,7 +11,7 @@ body{
 .body-container
 { 
     max-width: 1000px;
-    height:1000px;
+    height:1300px;
     background-color: bisque;
     margin: 0 auto;
     padding: 20px;
@@ -91,4 +91,32 @@ hr{
     border: 1px solid black;
     border-bottom: none;
     margin: 20px auto;
+}
+.edu-left
+{
+ float:left;
+ width: 45%;
+}
+.edu-right
+{
+    float:left;
+    width: 45%;
+    
+}
+
+.bottom-container
+{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a
+{
+   color: white;
+   margin: 20px;
+}
+.bottom-container p
+{
+   color: white;
+   margin: 20px;
 }
