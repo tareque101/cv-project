@@ -20,4 +20,45 @@ body{
    height: 120px;
    border: 3px solid white;
    border-radius: 50%;
+   float: left;
+ margin-top: 10px;
+}
+
+#profile-bio
+{
+    float: left;
+    padding: 30px;
+
+}
+h1,h2,h3,h4,h5,h6
+{
+    color: #11999e;
+}
+.profile-contact
+{
+    float: right;
+    padding: 30px;
+    
+}
+.profile-contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight:bold;
+}
+
+.profile-contact a:hover
+{
+    color: tomato;
+    text-decoration: underline;
+}
+
+.div-clear
+{
+    clear: both;
+}
+hr{
+    border: solid black 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
 }
